@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1Arraylist/1Arraylist.iml" filepath="$PROJECT_DIR$/1Arraylist/1Arraylist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2LinkedList/2LinkedList.iml" filepath="$PROJECT_DIR$/2LinkedList/2LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3HashSet/3HashSet.iml" filepath="$PROJECT_DIR$/3HashSet/3HashSet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Collection.iml" filepath="$PROJECT_DIR$/.idea/Collection.iml" />
+    </modules>
+  </component>
+</project>
