@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Collections;
 
-public class SortArrayList {
+public class SortArrayListException {
     public static void main(String[] args) {
         try {
             ArrayList<Integer> aL2 = new ArrayList<Integer>();
