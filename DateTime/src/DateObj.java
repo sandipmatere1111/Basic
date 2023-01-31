@@ -1,6 +1,6 @@
- import java.util.*;
-    public class DateObj {
-        public  static void main(String [] args){
+import java.util.*;
+public class DateObj{
+    public  static void main(String [] args){
             //take year month date
             System.out.println("Enter your birth year");
             Scanner sc = new Scanner(System.in);
@@ -25,4 +25,4 @@
 
         }
     }
-}
+
