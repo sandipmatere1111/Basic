@@ -5,7 +5,10 @@
       <module fileurl="file://$PROJECT_DIR$/1Arraylist/1Arraylist.iml" filepath="$PROJECT_DIR$/1Arraylist/1Arraylist.iml" />
       <module fileurl="file://$PROJECT_DIR$/2LinkedList/2LinkedList.iml" filepath="$PROJECT_DIR$/2LinkedList/2LinkedList.iml" />
       <module fileurl="file://$PROJECT_DIR$/3HashSet/3HashSet.iml" filepath="$PROJECT_DIR$/3HashSet/3HashSet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayDeque/ArrayDeque.iml" filepath="$PROJECT_DIR$/ArrayDeque/ArrayDeque.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Collection.iml" filepath="$PROJECT_DIR$/.idea/Collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DateTime/DateTime.iml" filepath="$PROJECT_DIR$/DateTime/DateTime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hashmap/Hashmap.iml" filepath="$PROJECT_DIR$/Hashmap/Hashmap.iml" />
     </modules>
   </component>
 </project>
